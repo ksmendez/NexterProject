@@ -27,3 +27,8 @@ Compile Sass.
 ```bash
   npm run build:sass
 ```
+
+## Deployment
+
+I deployed the website through Netlify.
+[Enjoy the landing page.](https://elaborate-smakager-a37b7e.netlify.app/)
